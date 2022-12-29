@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['losses.py', 'utilFiles/get_args.py', 'helpers.py', 'submit_job.sh', 'the_job.sh', 'main.py', 'train.py', 'lenet.py', 'plotFunctions/1_compare_plots_different_loss.py', 'plotFunctions/4_compare_ce_proposed.py', 'plotFunctions/ToyPlotting/3_compare_ce_evidential_paper_demo.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
