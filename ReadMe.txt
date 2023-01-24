@@ -11,4 +11,4 @@ Run bash submit_demo.sh
 
 For all remaining MNIST experiments and results, consider the folder MainMnistExperiment 
 Run bash submit_baseline.sh to obtain Cross-Entropy based standard classifier model's results
-Run bash submit_job.sh to obtain all Evidential model results
+Run bash submit_job.sh to obtain all Evidential model results (All hyperparameters and settings)
