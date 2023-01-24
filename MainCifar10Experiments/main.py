@@ -148,11 +148,7 @@ def test(epoch, save_dict):
     acc = 100.*correct/total
     save_dict['test_loss'] = test_loss/(batch_idx+1)
     save_dict['test_accuracy'] = acc
-    
-    all_predictions = np.array(all_predictions)
-    all_labels = np.array(all_labels)
-    all_confidences = np.array(all_confidences)
-    
+
     if acc > best_acc:
         print('Saving..')
         state = {
