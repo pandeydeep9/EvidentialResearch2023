@@ -44,9 +44,10 @@ MNIST dataset, Cifar10 dataset, and Cifar100 dataset are automatically downloade
 mini-Imagenet dataset needs to be downloaded and placed in the materials folder. Follow instructions in 0_mini_imagenet_instructions.txt for mini-ImageNet.
 
 <H3>References:</H3>
-- MNIST experiments are based on the github repository: https://github.com/dougbrion/pytorch-classification-uncertainty
-- Cifar10 experiments are based on the github repostiory: https://github.com/kuangliu/pytorch-cifar.git
-- Cifar100 experiments are based on the github repository: https://github.com/weiaicunzai/pytorch-cifar100.git
-- mini-ImageNet experiments are based on the github repository: https://github.com/yinboc/few-shot-meta-baseline.git
+<ul>
+<li>MNIST experiments are based on the github repository: https://github.com/dougbrion/pytorch-classification-uncertainty
+<li>Cifar10 experiments are based on the github repostiory: https://github.com/kuangliu/pytorch-cifar.git
+<li>Cifar100 experiments are based on the github repository: https://github.com/weiaicunzai/pytorch-cifar100.git
+<li>mini-ImageNet experiments are based on the github repository: https://github.com/yinboc/few-shot-meta-baseline.git
 
 
