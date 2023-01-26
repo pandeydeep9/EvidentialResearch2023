@@ -1,6 +1,6 @@
 MNIST experiments are based on the github repository :https://github.com/dougbrion/pytorch-classification-uncertainty
 
-MNIST experiments require 
+Runnning Experiments requires 
 Python
 pytorch
 Torchvision
@@ -16,3 +16,9 @@ Run bash submit_job.sh to obtain all Evidential model results (All hyperparamete
 3) For all Cifar10 experiments and results, consider the folder MainCifar10Experiments
 Run bash submit_baseline_ce.sh to obtain Cross-Entropy based standard classifier model's results
 Run bash submit_evidential.sh to obtain all Evidential model results (All hyperparameters and settings)
+
+4) For all Cifar100 experiments and results, consider the folder Cifar100Experiments
+Run bash 1_submit_baseline_ce.sh to obtain Cross-Entropy based standard classifier model's results
+Run bash 2_submit_evidential.sh to obtain all Evidential model results (All hyperparameters and settings)
+
+
