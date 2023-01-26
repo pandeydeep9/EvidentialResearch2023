@@ -1,0 +1,4 @@
+1. Download the mini-ImageNet dataset.
+	The Dataset should have three directories: train, test, and val with 64 classes, 16 classes, and 20 classes respectably
+2. Rename the dataset to "mini-imagenet"
+3. Place the dataset into the materials folder provided
