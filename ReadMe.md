@@ -1,6 +1,12 @@
 <H1> Regularized Evidential Model Code (RED) </H1>
 
+Paper Title: Learn to Accumulate Evidence from All Training Samples: Theory and Practice </br>
+Paper link: https://openreview.net/forum?id=2MaUpKBSju </br>
+
+
 <p> This repository contains source code for the <b>Regularized Evidential Model Code (RED) </b> model. 
+
+
 
 <H3> Requirements </H3>
 <p>Runnning Experiments in this repository requires following : </p>
